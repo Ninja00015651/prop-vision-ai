@@ -471,7 +471,7 @@ erDiagram
 
 ## 6.3 API Specification
 
-The complete OpenAPI 3.0 specification is available in [`openapi.yaml`](file:///Users/leofillium/Documents/GitHub/prop-vision-ai/openapi.yaml).
+The complete OpenAPI 3.0 specification is available in [`openapi.yaml`](../openapi.yaml).
 
 ### Endpoint Summary
 
